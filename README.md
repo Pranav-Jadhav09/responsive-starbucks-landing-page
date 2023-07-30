@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub repo size]( https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git)
+![GitHub repo size]( https://img.shields.io/github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jrpranav?style=social)](https://twitter.com/intent/follow?screen_name=jrpranav)
 
 <br />

@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jrpranav/responsive-starbucks-lp)
+![GitHub repo size]( https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jrpranav?style=social)](https://twitter.com/intent/follow?screen_name=jrpranav)
 
 <br />
@@ -12,7 +12,7 @@
 
 Starbucks is a fully responsive landing page website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://jrpranav.github.io/starbucks.git"><strong>➥ Live Demo</strong></a>
+<a href=" https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +36,14 @@ To run **Starbucks Landing Page**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/jrpranav/starbucks.git
+sudo git clone https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/jrpranav/starbucks.git
+git clone https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/jrpranav).
 
 ### License
 

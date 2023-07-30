@@ -12,7 +12,7 @@
 
 Starbucks is a fully responsive landing page website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://pranav-jadhav09.github.io/responsive-starbucks-landing-page/" target="_blank"><strong>➥ Live Demo</strong></a>
+<a href="https://pranav-jadhav09.github.io/responsive-starbucks-landing-page/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
